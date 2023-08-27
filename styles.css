@@ -5,9 +5,14 @@ width :150px;
 height : 150px;
 background color : black(#000000);
 }
+#job{
+	width :150px;
+height : 150px;
+background color : black(#000000);
+	
+}
 .hello-accio{
 font color : white(#ffffff)
 left margin: 32px;
-padding : 10px;
-	
+padding all side : 10px;
 }
