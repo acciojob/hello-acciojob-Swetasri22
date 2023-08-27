@@ -1,18 +1,17 @@
 
 /* Your CSS Code here. */
-.accio{
-width :150px;
-height : 150px;
-background color : black(#000000);
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-#job{
-	width :150px;
-height : 150px;
-background color : black(#000000);
-	
+.accio {
+    width: 150px;
+    height: 150px;
+    background-color: #000000;
 }
-.hello-accio{
-font color : white(#ffffff)
-left margin: 32px;
-padding all side : 10px;
+.hello-accio {
+    color: #ffffff;
+    margin-left: 32px;
+    padding: 10px;
 }
